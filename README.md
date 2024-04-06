@@ -1,4 +1,4 @@
-![Banner1](https://github.com/sourceduty/Sourceduty_2/assets/123030236/0b958e18-56b2-4f98-af57-da3c6789ccec)
+![Sourceduty 2](https://github.com/sourceduty/Sourceduty_2/assets/123030236/80b83e1c-cd7f-413c-8a13-7ed924df2c90)
 
 ***
 ## Sourceduty II
