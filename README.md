@@ -13,3 +13,56 @@ Creating a subsidiary involves several considerations including legal structurin
 If you're serious about this endeavor, it might be beneficial to discuss this directly with Alex Aldridge or the team at Sourceduty. You can reach out to them via the provided email, sourceduty@gmail.com, to explore this idea further and understand how it fits within Sourceduty's future growth plans.
 
 ***
+
+### Sourceduty Business Structure in 2024
+
+```
+[Owner: Alex Aldridge]
+  |
+  |
+[Sole Proprietorship: Sourceduty]
+  |
+  |
+[Business Operations: Sourceduty]
+```
+
+### Sourceduty Business Structure Concepts
+
+```
+[Alex Aldridge]
+|
+|
+[Sole Proprietorship: Sourceduty]
+|
+|----[Business Operations: Sourceduty]
+| |
+| |----[Subsidiary 1: Sourceduty Solutions LLC]
+| |
+| |----[Subsidiary 2: Sourceduty Innovations LLC]
+| |
+| |----[Subsidiary 3: Sourceduty Group LLC]
+```
+
+```
+          [Alex Aldridge]
+                  |
+                  |
+ [Partnership: Sourceduty & Partners]
+        /                  \
+       /                    \
+ [Owners]                 [Business Operations: Sourceduty]
+  |                          |
+  |                          |
+Alex Aldridge                |
+Beth [Last Name]             |
+                            |
+        ---------------------------------
+        |               |                |
+        |               |                |
+[Subsidiary 1:        [Subsidiary 2:   [Subsidiary 3:
+Sourceduty Solutions   Sourceduty       Sourceduty Group
+     LLC]           Innovations LLC]         LLC]
+```
+
+***
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
