@@ -3,7 +3,6 @@
 ***
 ## Sourceduty II
 
-
 If you're considering establishing a subsidiary under the umbrella of Sourceduty, it's essential to understand that a subsidiary is a separate legal entity owned in part or wholly by another company, referred to as the parent company. In the context of Sourceduty, which is a creative digital company founded by Alex Aldridge, focusing on various mediums like industrial design, architecture, graphic design, 3D models, fan art, and programming, a subsidiary could potentially leverage these strengths into specialized areas.
 
 For instance, a subsidiary under Sourceduty could concentrate on a specific niche like virtual reality environments, leveraging the 3D model assets and programming expertise that Sourceduty possesses. This subsidiary could operate with a degree of independence while benefiting from Sourceduty's resources, reputation, and network.
@@ -65,6 +64,6 @@ Sourceduty Solutions   Sourceduty       Sourceduty Group
 ```
 
 ***
-![McShipping](https://github.com/sourceduty/Sourceduty_2/assets/123030236/298930d9-3d68-4593-9065-ccf2ee545425)
+![The King of Sourceduty](https://github.com/sourceduty/Sourceduty_2/assets/123030236/fc33e6f0-ed54-41d7-b8a4-5eb6c6cf20c9)
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
